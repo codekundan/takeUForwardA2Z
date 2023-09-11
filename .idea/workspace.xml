@@ -4,36 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb2d775e-ae0f-4cfa-9975-01b2303d8f92" name="Changes" comment="Just a check commit">
+    <list default="true" id="bb2d775e-ae0f-4cfa-9975-01b2303d8f92" name="Changes" comment="Logic building problem">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;codekundan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="721150e2-b640-41da-8c4f-3d4be4e55558" />
+        <option name="url" value="https://github.com/codekundan/takeUForwardA2Z.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2TbMINJLiKFGbNEUJNcwYG15OGr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "D:/cp/takeUForwardA2Z/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/cp/takeUForwardA2Z/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.Pattern2">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="takeUForwardA2Z" />
@@ -41,8 +62,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern1" />
+      <module name="takeUForwardA2Z" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern2" />
+      <module name="takeUForwardA2Z" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern2" />
+        <item itemvalue="Application.Pattern1" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -64,7 +101,95 @@
       <option name="project" value="LOCAL" />
       <updated>1691307593172</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Just a check commit">
+      <option name="closed" value="true" />
+      <created>1691307651769</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691307651769</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Just a check commit 2">
+      <option name="closed" value="true" />
+      <created>1691307675254</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691307675254</updated>
+    </task>
+    <task id="LOCAL-00004" summary="User Input Output Code">
+      <option name="closed" value="true" />
+      <created>1691309808997</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691309808997</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Data Types">
+      <option name="closed" value="true" />
+      <created>1691316080160</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691316080160</updated>
+    </task>
+    <task id="LOCAL-00006" summary="If Else Statements">
+      <option name="closed" value="true" />
+      <created>1691316553809</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691316553809</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Switch Statements">
+      <option name="closed" value="true" />
+      <created>1691317469238</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691317469238</updated>
+    </task>
+    <task id="LOCAL-00008" summary="For Loops">
+      <option name="closed" value="true" />
+      <created>1691318999654</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691318999654</updated>
+    </task>
+    <task id="LOCAL-00009" summary="While Loops">
+      <option name="closed" value="true" />
+      <created>1691322103592</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1691322103592</updated>
+    </task>
+    <task id="LOCAL-00010" summary="While Loops">
+      <option name="closed" value="true" />
+      <created>1692549290935</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1692549290935</updated>
+    </task>
+    <task id="LOCAL-00011" summary="While Loops">
+      <option name="closed" value="true" />
+      <created>1692549630897</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1692549630897</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Logic building problem">
+      <option name="closed" value="true" />
+      <created>1692549653536</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692549653536</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,7 +205,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Just a check commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Just a check commit" />
+    <MESSAGE value="Just a check commit 2" />
+    <MESSAGE value="User Input Output Code" />
+    <MESSAGE value="Data Types" />
+    <MESSAGE value="If Else Statements" />
+    <MESSAGE value="Switch Statements" />
+    <MESSAGE value="For Loops" />
+    <MESSAGE value="Concept building Problem" />
+    <MESSAGE value="While Loops" />
+    <MESSAGE value="Logic building problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Logic building problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -89,6 +223,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Pattern1.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
